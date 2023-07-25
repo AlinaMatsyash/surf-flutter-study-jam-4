@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#727272</color>
+    <color name="text_light">#6C698C</color>
+    <color name="gradient_light_one">#fdfdff</color>
+    <color name="gradient_light_two">#d2d3fe</color>
+    <color name="gradient_dark_one">#100b2b</color>
+    <color name="gradient_dark_two">#010003</color>
+</resources>

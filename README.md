@@ -1,4 +1,4 @@
-# Surf Flutter Study Jam 4
+# Surf Flutter Study surf_practice_magic_ball 4
 
 <p align="center">
 <img src="https://surf.ru/wp-content/themes/surf/assets/img/logo.svg" height="120" />
@@ -9,7 +9,7 @@
 - Версия Flutter: **3.10.3**
 - Версия Dart: **3.0.3**
 
-Ваша ветка с выполнением задания называется `study-jam-4`.
+Ваша ветка с выполнением задания называется `study-surf_practice_magic_ball-4`.
 
 В шаблонном приложении у вас уже есть начальный экран.
 
