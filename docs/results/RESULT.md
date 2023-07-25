@@ -28,6 +28,10 @@ phone:
 
 [three.webm](https://github.com/AlinaMatsyash/surf-flutter-study-jam-4/assets/40697299/30675e5a-9495-41cf-b06f-0b4f16a7e888)
 
+почему шар не красный не видео пока не знаю, завтра точно узнаю, при записи все было ок в докозательсво прикладываю скрин(его сдела, срузу псле просмотра записи)
+
+![Screenshot_20230725_214515](https://github.com/AlinaMatsyash/surf-flutter-study-jam-4/assets/40697299/83b0d7ff-6caa-49d7-aa8d-e70c859fc5a6)
+
 
 desktop:
 ![Screenshot from 2023-07-25 21-06-57](https://github.com/AlinaMatsyash/surf-flutter-study-jam-4/assets/40697299/77bb614b-b1f9-4c6a-ab2d-b83ab759d1b9)
